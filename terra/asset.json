@@ -1158,6 +1158,14 @@
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
+    "id": "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz",
+    "name": "Terra PEPE",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/trumpdao/public/main/data/pepe_logo.jpeg"
+  },
+  {
     "id": "terra167khnalh9aawqx9qynj7kk9y0n8hc30qe6s8cy7y5yu2azrc2edqyjprp9",
     "entity": "Phoenix",
     "name": "IBC/-IBC/-LP",
